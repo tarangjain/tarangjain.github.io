@@ -73,7 +73,7 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 9997;
   transition: all 0.5s;
   padding: 0 15px;
-  background: #040b14;
+  background: #000000;
   overflow-y: auto;
 }
 
@@ -1043,7 +1043,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  padding: 15px;
+  padding: 5px;
   color: #f4f6fd;
   font-size: 14px;
   position: fixed;
@@ -1076,4 +1076,19 @@ section {
 .bigger
 {
   font-size:  10px;
+}
+
+.btn {
+  background-color: DodgerBlue;
+  border: none;
+  color: white;
+  padding: 10px 15px;
+  cursor: pointer;
+  font-size: 15px;
+  border-radius: 30px;
+}
+
+/* Darker background on mouse-over */
+.btn:hover {
+  background-color: white;
 }
