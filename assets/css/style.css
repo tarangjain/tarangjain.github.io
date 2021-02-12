@@ -240,6 +240,7 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
   line-height: 56px;
   color: #fff;
+  margin-left: 10px;
 }
 
 #hero p {
@@ -247,6 +248,7 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 50px;
   font-size: 26px;
   font-family: "Poppins", sans-serif;
+  margin-left: 10px;
 }
 
 #hero p span {
@@ -375,7 +377,8 @@ section {
   display: block;
   font-weight: 700;
   color: #050d18;
-  margin-left: 60px;
+  margin-left: 40px;
+  margin-right: 10px;
 }
 
 .facts .count-box p {
