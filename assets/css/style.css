@@ -506,6 +506,7 @@ section {
 --------------------------------------------------------------*/
 .portfolio .portfolio-item {
   margin-bottom: 30px;
+  margin-right: 20px;
 }
 
 .portfolio #portfolio-flters {
